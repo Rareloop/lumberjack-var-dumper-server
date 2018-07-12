@@ -4,7 +4,7 @@ This requires Hatchet, if you haven't already set it up for your theme follow [t
 
 ## Installation
 ```
-composer require rareloop/lumberjack-var-dumper-server --dev
+composer require rareloop/lumberjack-var-dumper-server
 ```
 
 Once installed, register the Service Provider in config/app.php within your theme:
